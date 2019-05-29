@@ -1,4 +1,6 @@
-# Information Warfare: Russia's use of Twitter during the 2016 US Presidential Election (work in progress)
+# Information Warfare: Russia's use of Twitter during the 2016 US Presidential Election
+
+#### Project Status: Active
 
 On July 31, 2018, the website FiveThirtyEight [published nearly 3 million tweets](https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/) sent from Twitter handles connected to the Internet Research Agency(IRA), a Russian "troll factory" and a defendant in an indictment filed by the Justice Department in February 2018, as part of special counsel Robert Mueller's Russia investigation. 
 
